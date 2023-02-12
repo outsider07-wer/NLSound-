@@ -1,0 +1,2 @@
+# NLSound-
+NLSound汉化
